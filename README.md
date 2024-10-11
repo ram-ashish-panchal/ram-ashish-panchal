@@ -14,7 +14,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-ashish-panchal&show_icons=true&locale=en&layout=compact" alt="ram-ashish-panchal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-ashish-panchal&show_icons=true&locale=en" alt="ram-ashish-panchal" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ram-ashish-panchal&show_icons=true&locale=en" alt="ram-ashish-panchal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-ashish-panchal&" alt="ram-ashish-panchal" /></p>
 
