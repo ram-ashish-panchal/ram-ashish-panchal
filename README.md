@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952szpdd1l769xmbeyqoi51qhteoqocfqevg6y9shyj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)" width="300"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Ashish Panchal</h1>
 <h3 align="center">A passionate developer from India</h3>
